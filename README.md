@@ -1,2 +1,3 @@
 # ForDummies
-Pratice repository for "Github for Dummies" book
+
+This practice is done accordance to Book's chapter 2.
