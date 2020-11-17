@@ -7,5 +7,3 @@ ve de bla bla blaaa....
 Pratice repository for "Github for Dummies" book
 
 Alienshow-patch-1
-
-This line is added for Closing an issue
